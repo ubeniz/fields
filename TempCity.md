@@ -1,19 +1,6 @@
 ### Schema of Last Document in `ConsolidationDB.TempCity`
 
-- **_id**: `object`
-- **_id.buffer**: `object`
-- **_id.buffer.0**: `number`
-- **_id.buffer.1**: `number`
-- **_id.buffer.2**: `number`
-- **_id.buffer.3**: `number`
-- **_id.buffer.4**: `number`
-- **_id.buffer.5**: `number`
-- **_id.buffer.6**: `number`
-- **_id.buffer.7**: `number`
-- **_id.buffer.8**: `number`
-- **_id.buffer.9**: `number`
-- **_id.buffer.10**: `number`
-- **_id.buffer.11**: `number`
+- **_id**: `ObjectId`
 - **ModifiedAt**: `string`
 - **HubId**: `number`
 - **CityName**: `string`
